@@ -1,0 +1,831 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2019</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">1</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2018</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">20</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2017</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">6</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2016</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">19</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2015</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">13</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2014</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">16</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2013</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">15</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2012</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">27</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2011</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">26</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2010</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">28</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2009</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">30</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2008</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">15</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">23</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2006</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">19</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2005</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">28</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2004</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">31</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2003</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">33</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2002</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">32</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2001</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">32</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2000</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">32</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1999</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">32</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1998</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">32</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1997</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">32</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1996</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">32</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1995</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">33</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1994</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">33</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1993</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">33</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1992</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">33</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1991</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">32</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1990</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">26</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Faeroe Islands</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2023</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">0.012</field>
+            <field name="Quantity Footnotes">1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Faeroe Islands</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2022</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">0.012</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Faeroe Islands</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2021</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">0.006</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2022</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">490.478</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2021</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">483.791</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2020</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">481.764</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2019</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">478.964</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2018</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">479.93</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2017</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">521.706</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2016</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">501</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2015</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">487</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2014</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">481</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2013</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">414</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2012</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">458</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2011</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">477</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2010</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">476</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2009</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">448</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2008</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">465</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2007</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">465</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2006</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">464</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2005</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">481</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2004</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">470</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2003</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">490</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2002</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">494</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2001</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">485</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2000</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">507</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1999</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">515</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1998</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">522</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1997</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">510</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1996</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">491</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1995</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">507</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1994</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">501</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1993</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">494</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1992</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">516</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1991</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">517</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">1990</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">503</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Gibraltar</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2023</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">0</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Gibraltar</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2022</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">0.03</field>
+            <field name="Quantity Footnotes">1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Gibraltar</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2021</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">0.1</field>
+            <field name="Quantity Footnotes">1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Gibraltar</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2020</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">0.1</field>
+            <field name="Quantity Footnotes">1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Gibraltar</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2019</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">0.1</field>
+            <field name="Quantity Footnotes">1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Gibraltar</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2018</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">0.1</field>
+            <field name="Quantity Footnotes">1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Gibraltar</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2017</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">0.1</field>
+            <field name="Quantity Footnotes">1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Gibraltar</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2016</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">0.1</field>
+            <field name="Quantity Footnotes">1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Korea, Republic of</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2022</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">423.843</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Korea, Republic of</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2021</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">454.968</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Korea, Republic of</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2020</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">457.263</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Korea, Republic of</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2019</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">474.321</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Korea, Republic of</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2018</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">485.353</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Korea, Republic of</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2017</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">489.466</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Korea, Republic of</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2016</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">496</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Korea, Republic of</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2015</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">496</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Korea, Republic of</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2014</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">492</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Korea, Republic of</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2013</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">484</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Portugal</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2017</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">0.006</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Spain</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2022</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">23</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Spain</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2021</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">19</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Spain</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2020</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">27</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Spain</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2019</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">20</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2022</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">11.211</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2021</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">5.471</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2020</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">11.278</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2019</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">13.991</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2018</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">9.298</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2017</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">4.194</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2016</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">0</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2015</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">2</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2014</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">1</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2013</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">4</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2012</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">4</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2011</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">1</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2010</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">2</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom</field>
+            <field name="Commodity - Transaction">Electricity - total tide, wave production</field>
+            <field name="Year">2009</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">1</field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+    </data>
+    <footnotes>
+        <footnote fnSeqID="1">Estimate</footnote>
+    </footnotes>
+</ROOT>
